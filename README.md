@@ -156,17 +156,17 @@ Para realizar dicho proyecto se llevó a cabo un prototipo de baja y alta fideli
 ⌨ Markdown
 
 ## 9. Habilidades blandas 
-### (Life Skills)
+### (Life Skills) 
 🦾 Colaboración\
 🦾 Profesionalismo\
 🦾 Autoaprendizaje\
 🦾 Comunicación eficaz
 
 ## 10. Autores 
-👩🏼‍💻 MAGGIE SARMIENTO - https://github.com/Maggie-Sarmiento \
+
 👩🏼‍💻 PAULETTE VILLEGAS - https://github.com/PauliVr \
-👩🏼‍💻 SKARLET ARAQUE - https://github.com/SkarletA
+y otros
 
 ## 11. Licencia
 
-Este proyecto está bajo la Licencia de Maggie Sarmiento, Paulette Villegas y Skarlet Araque (MAPASK❤).
+Este proyecto está bajo la Licencia de  Paulette Villegas y otros desarrolladores
