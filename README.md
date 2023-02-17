@@ -1,4 +1,4 @@
-# Red Social Mapask
+# Red Social 
 <p align="center">
 <img src="https://i.postimg.cc/HxzxDz44/Mapask.jpg" alt="MAPASK"/>
 </p>
